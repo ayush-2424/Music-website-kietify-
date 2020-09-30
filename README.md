@@ -21,5 +21,5 @@ These days, you can simply sign up to our music streaming service kietify and ha
 - Works on any device, whether it be Windows, macOS, iOS, Linux.
 - Make your own Library.
 - Sort and Filter.
-- Not Contain malvare or any type of virus.
+- Not Contain malware or any type of virus.
 - Not Collect your personal data.
