@@ -20,6 +20,7 @@ These days, you can simply sign up to our music streaming service kietify and ha
 - Add Free
 - Works on any device, whether it be Windows, macOS, iOS, Linux.
 - Make your own Library.
-- Sort and Filter.
 - Not Contain malvare or any type of virus.
 - Not Collect your personal data.
+- Original Artists
+- You can search Music by diffrent categories.
