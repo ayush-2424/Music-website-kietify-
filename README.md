@@ -9,7 +9,7 @@ These days, you can simply sign up to our music streaming service kietify and ha
 - Unzip "Music-website-kietify.zip".
 - Run 'Music-website-kietify'.
 
-#Requirements
+# Requirements
 - Any Web Browser.
 - Any zip extractor.
 
