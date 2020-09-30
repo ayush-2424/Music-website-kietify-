@@ -12,6 +12,7 @@ These days, you can simply sign up to our music streaming service kietify and ha
 # Requirements
 - Any Web Browser.
 - Any zip extractor.
+- Xamp Server.
 
 # Services
 - Free to Use.
