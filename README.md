@@ -5,7 +5,7 @@ Music listening has come a long way over the past few decades. Gone are the days
 These days, you can simply sign up to our music streaming service kietify and have access to high quality music .
 
 # How to Use:
-- Download zip.
+- Download zip from Repository.
 - Unzip "Music-website-kietify.zip".
 - Run 'Music-website-kietify'.
 
